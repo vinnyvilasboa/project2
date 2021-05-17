@@ -13,9 +13,11 @@ A list where people can add their top 5 favorite movies for other people to get 
 
 `3` Wireframe for your app - (Lucidchart)
 
+![HOME PAGE](INDEX.PNG)
+
+
 CLICK [HERE](https://lucid.app/lucidchart/invitations/accept/inv_dadd07cb-661c-486b-b8c4-e272bc0d5908?viewport_loc=-525%2C-8%2C2798%2C1300%2C0_0) TO COMMENT ON THE WIREFRAME FOR INDEX
 
-![HOME PAGE](INDEX.PNG)
 
 - [X]
 
